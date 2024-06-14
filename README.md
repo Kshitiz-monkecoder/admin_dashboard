@@ -3,7 +3,8 @@ Certainly! Here's a sample README file for your admin dashboard project for e-co
 ```markdown
 # E-Commerce Admin Dashboard
 
-![Dashboard Screenshot](./src//assets/Screenshot%202024-06-15%20000309.png)
+![Dashboard Screenshot](./src/assets/Screenshot%202024-06-15%20000309.png)
+
 
 ## Overview
 
